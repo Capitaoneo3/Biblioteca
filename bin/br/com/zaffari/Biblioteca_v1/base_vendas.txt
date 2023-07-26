@@ -1,0 +1,5 @@
+Venda: Cliente:  joao Livro:  Harry Potter e a Pedra Filosofal  Data da Compra: Dia: 17 Mês: JULY Ano: 2023
+Venda: Cliente:  Maria Livro:  Harry Potter e a Camara Secreta  Data da Compra: Dia: 16 Mês: JULY Ano: 2023
+Venda: Cliente:  Erik Livro:  Harry Potter e a Camara Secreta  Data da Compra: Dia: 16 Mês: JULY Ano: 2023
+Venda: Cliente:  Artur Livro:  Harry Potter e o Prisioneiro de Azkaban  Data da Compra: Dia: 15 Mês: JULY Ano: 2023
+Venda: Cliente:  Henrique Livro:  Harry Potter e o Calice de Fogo  Data da Compra: Dia: 14 Mês: JULY Ano: 2023

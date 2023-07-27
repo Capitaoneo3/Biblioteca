@@ -137,8 +137,7 @@ public class Testebufered {
 				"C:/Users/educador/ProjetosProgramacao/JAVA/Biblioteca/src/br/com/zaffari/Biblioteca_v1/base_clientes.txt");
 		BufferedReader Bf = new BufferedReader(fr);
 		Scanner scanner = new Scanner(Bf);
-		scanner.close();
-		Bf.close();
+		
 
 
 		// escreveBaseDeAutores(harry1,harry2,harry3,harry4,harry5);
@@ -150,5 +149,7 @@ public class Testebufered {
 		else{
 		escreveBaseDeClientes( Joao, Maria, Erik, Artur, Henrique);
 		}
+		scanner.close();
+		Bf.close();
 	}
 }
